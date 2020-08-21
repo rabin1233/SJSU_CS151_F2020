@@ -1,0 +1,11 @@
+
+1. Name: Rabin Gurung
+2. Preferred Name: Rabin Gurung
+3. Student ID: 013855972 
+4. Major: Computer Science 
+5. Preferred email: rabin.gurung@sjsu.edu
+6. Status: Undergraduate 
+7. Yes, I am a graduating Senior 
+8. Yes, I am repeating this class. 
+9. CS108, CS143M, CS146, CS 147, CS149, CS157A 
+10. I am an international student and I am interested in scope of  AI and Bioinformatics. 
